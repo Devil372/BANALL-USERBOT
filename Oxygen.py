@@ -361,7 +361,7 @@ if M5:
     M5.stop()
 
 M.start()
-M.join_chat("BWANDARLOK")
+M.join_chat("FUCKINGMASSCOPYRIGHTS")
 print("Bot Started Successfully")
 idle()
 M.stop()
